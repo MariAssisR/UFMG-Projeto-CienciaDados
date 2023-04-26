@@ -5,7 +5,7 @@ This data science project is being conducted for a course at the Federal Univers
 
 ## The DataSet
 
-The OSMI Mental Health in Tech Survey is a collection of data related to mental health issues among individuals working in the tech industry. The survey was conducted by the Open Sourcing Mental Illness (OSMI) organization and includes responses from various tech-related fields. The data includes information on demographics, job roles, types of mental health conditions, treatment methods, and workplace attitudes towards mental health. The survey used in our project was conduced from 2017 to 2021, we separeted them in two groups: pre pandemic (2017-2019) and during pandemic (2020-2021).
+The OSMI Mental Health in Tech Survey is a collection of data related to mental health issues among individuals working in the tech industry. The survey was conducted by the Open Sourcing Mental Illness (OSMI) organization and includes responses from various tech-related fields. The data includes information on demographics, job roles, types of mental health conditions, treatment methods, and workplace attitudes towards mental health. The survey used in our project was conduced from 2017 to 2021, therefore we separated them in two groups: pre-pandemic (2017-2019) and during pandemic (2020-2021).
 
 ## Source
 
